@@ -1,0 +1,100 @@
+
+.club {
+  background: url(../img/cards-clubs.png) no-repeat;
+}
+
+.spade {
+  background: url(../img/cards-spades.png) no-repeat;
+}
+
+.diamond {
+  background: url(../img/cards-diamonds.png) no-repeat;
+}
+
+.heart {
+  background: url(../img/cards-hearts.png) no-repeat;
+}
+
+.hiddencard {
+  
+  background: url(../img/card-back.png) no-repeat;		
+}
+
+.hand li {	
+  width: 30px;
+  height: 97px;
+	float: left;
+	list-style-type: none;
+}
+
+.hand :last-child {
+  width: 74px;
+}
+
+._1
+{
+  background-position: 0px 0px;
+}
+
+._2
+{
+  background-position: -73px 0px;
+}
+
+._3
+{
+  background-position: -146px 0px;
+}
+
+._4
+{
+  background-position: -219px 0px;
+}
+
+._5
+{
+  background-position: -292px 0px;
+}
+
+._6
+{
+  background-position: -365px 0px;
+}
+
+._7
+{
+  background-position: -438px 0px;
+}
+
+._8
+{
+  background-position: -511px 0px;
+}
+
+._9
+{
+  background-position: -584px 0px;
+}
+
+._10
+{
+  background-position: -657px 0px;
+}
+
+._11
+{
+  background-position: -730px 0px;
+}
+
+._12
+{
+  background-position: -803px 0px;
+}
+
+._13
+{
+  background-position: -876px 0px;
+}
+
+
+

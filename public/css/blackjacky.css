@@ -1,0 +1,17 @@
+.player {
+	padding: 10px 10px;
+	height: 200px;
+}
+
+
+.player .name {
+	font-size: 18px;
+}
+
+.win {
+	background-color: lightgreen;
+}
+
+.bust {
+	background-color: lightcoral;
+}
